@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and all the new terminologies around it.
 - 🌱 I’m currently learning tensorflow, tensorflow lite, keras, deep learning optimization and the list goes on.
 - 💞️ I’m looking to collaborate on any of the above mentioned topics.
-- 📫 How to reach me anamikaxiii@gmail.com
+- 📫 How to reach me ...
 
 <!---
 anamikaxiii/anamikaxiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
